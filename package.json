@@ -1,0 +1,26 @@
+{
+  "name": "ai-sensei",
+  "version": "1.0.0",
+  "description": "Multi-Modal AI Japanese Language Tutor - A closed-loop system that sees handwriting, hears pronunciation, and understands semantics",
+  "main": "ai_tutor.ipynb",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/ai-sensei.git"
+  },
+  "keywords": [
+    "japanese-language",
+    "language-learning",
+    "ai-tutor",
+    "machine-learning",
+    "handwriting-recognition",
+    "speech-recognition",
+    "conversation-ai",
+    "jupyter-notebook"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YOUR_USERNAME/ai-sensei/issues"
+  },
+  "homepage": "https://github.com/YOUR_USERNAME/ai-sensei#readme"
+}
